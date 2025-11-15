@@ -1,0 +1,4 @@
+Day 1 practice notes:
+- Folder created using terminal
+- VS Code workspace opened
+- Files created successfully
